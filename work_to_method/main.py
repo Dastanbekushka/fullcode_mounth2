@@ -28,5 +28,7 @@ def winner(arr):
         return voice.speak("Вы проиграли!")
 print(winner(finish))
 
+f"wjefkjebg"
+
 
 
